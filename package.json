@@ -14,8 +14,12 @@
     "redis",
     "socket"
   ],
-  "author": "Parvind06",
+  "author": "Parvind paswan",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Parvind06/express-ts-kit.git"
+  },
   "dependencies": {
     "chalk": "^5.0.1",
     "commander": "^11.0.0",
