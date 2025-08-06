@@ -1,0 +1,24 @@
+{
+  "name": "express-ts-kit",
+  "version": "1.0.2",
+  "description": "CLI to generate boilerplate Node + Express + TS + Redis + Socket projects",
+  "bin": {
+    "express-ts-kit": "./bin/index.js"
+  },
+  "keywords": [
+    "cli",
+    "express",
+    "typescript",
+    "generator",
+    "boilerplate",
+    "redis",
+    "socket"
+  ],
+  "author": "Parvind06",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^11.0.0",
+    "fs-extra": "^11.1.1"
+  }
+}
